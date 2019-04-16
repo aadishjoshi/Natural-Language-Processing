@@ -1,0 +1,98 @@
+S -> NP VP
+NP -> NNS PP
+NP -> Det NN
+NP -> NN
+PP -> IN NP
+PP -> TO NP
+VP -> TO VP
+VP -> VB PP
+IN -> 'of'
+Det -> 'the'
+TO -> 'to'
+NNS -> 'Sales'
+NN -> 'company'
+NN -> 'normalcy'
+VB -> 'return'
+S -> NP VP
+S -> VP
+NP -> Det JJ NNS
+NP -> NN
+NNS -> NNS CC NNS
+CC -> 'and'
+NNS -> 'products'
+NNS -> 'services'
+VP -> VBD S
+VP -> TO VP
+VP -> VB NP
+Det -> 'The'
+VBD -> 'contributed'
+TO -> 'to'
+VB -> 'increase'
+JJ -> 'new'
+NN -> 'revenue'
+S -> NP VP
+NP -> NNP
+NNP -> 'Dow'
+VP -> VBZ SBAR
+VBZ -> 'falls'
+SBAR -> SBAR CC S
+SBAR -> IN S
+IN -> 'as'
+NP -> NN NN
+NN -> 'recession'
+NN -> 'indicator'
+VP -> VBD ADJP
+ADJP -> JJ
+VBD -> 'flashed'
+JJ -> 'red'
+CC -> 'and'
+NP -> JJ NNS
+JJ -> 'economical'
+NNS -> 'worries'
+VP -> VB PP
+VB -> 'continue'
+PP -> IN NP
+IN -> 'through'
+NP -> Det NN
+Det -> 'the'
+NN -> 'month'
+S -> NP VP
+NP -> NN NN
+NN -> 'Figure'
+NN -> 'skater'
+VP -> VP CC VP
+VP -> NNS
+NNS -> 'lands'
+NP -> NP PP PP PP
+NP -> JJ JJ NN
+JJ -> 'historic'
+JJ -> 'quadruple'
+NN -> 'jump'
+PP -> IN NP
+IN -> 'in'
+JJ -> 'senior'
+JJ -> 'international'
+NN -> 'competition'
+IN -> 'at'
+NP -> DT CD NNP NNP NNP NNPS
+DT -> 'the'
+CD -> '2019'
+NNP -> 'World'
+NNP -> 'Figure'
+NNP -> 'Skating'
+NNPS -> 'Championships'
+IN -> 'on'
+NP -> NN CD
+NN -> 'Day'
+CD -> '3'
+CC -> 'but'
+VP -> MD ADVP VP
+MD -> 'could'
+ADVP -> RB
+RB -> 'only'
+VP -> VB NP
+VB -> 'clinch'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'silver'
+NN -> 'medal'

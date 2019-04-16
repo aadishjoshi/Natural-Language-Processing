@@ -1,0 +1,26 @@
+S -> NP VP
+NP -> NNP
+NNP -> 'Dow'
+VP -> VBZ SBAR
+VBZ -> 'falls'
+SBAR -> SBAR CC S
+SBAR -> IN S
+IN -> 'as'
+NP -> NN NN
+NN -> 'recession'
+NN -> 'indicator'
+VP -> VBD ADJP
+ADJP -> JJ
+VBD -> 'flashed'
+JJ -> 'red'
+CC -> 'and'
+NP -> JJ NNS
+JJ -> 'economical'
+NNS -> 'worries'
+VP -> VB PP
+VB -> 'continue'
+PP -> IN NP
+IN -> 'through'
+NP -> Det NN
+Det -> 'the'
+NN -> 'month'

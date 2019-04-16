@@ -1,0 +1,17 @@
+S -> NP VP
+S -> VP
+NP -> Det JJ NNS
+NP -> NN
+NNS -> NNS CC NNS
+CC -> 'and'
+NNS -> 'products'
+NNS -> 'services'
+VP -> VBD S
+VP -> TO VP
+VP -> VB NP
+Det -> 'The'
+VBD -> 'contributed'
+TO -> 'to'
+VB -> 'increase'
+JJ -> 'new'
+NN -> 'revenue'

@@ -1,0 +1,15 @@
+S -> NP VP
+NP -> NNS PP
+NP -> Det NN
+NP -> NN
+PP -> IN NP
+PP -> TO NP
+VP -> TO VP
+VP -> VB PP
+IN -> 'of'
+Det -> 'the'
+TO -> 'to'
+NNS -> 'Sales'
+NN -> 'company'
+NN -> 'normalcy'
+VB -> 'return'
